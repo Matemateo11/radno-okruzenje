@@ -1,0 +1,10 @@
+{
+    "require": {
+        "laravel/framework": "^4.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
